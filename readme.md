@@ -113,7 +113,7 @@ Select Run from the left menu.
 Select the Arguments tab.
 In the Arguments Passed On Launch section, add (-FIRDebugEnabled) or (-FIRDebugDisabled)
 -----------------
-In Info.plist
+In GoogleService-Info.plist
 <key>IS_ANALYTICS_ENABLED</key>
 <true></true>
 ```
